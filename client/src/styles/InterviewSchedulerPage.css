@@ -1,0 +1,18 @@
+.scheduler-page {
+  display: flex;
+  height: 100vh;
+}
+
+.scheduler-content {
+  flex: 1;
+  padding: 20px;
+}
+
+.create-interview-btn {
+  background-color: #007bff;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
